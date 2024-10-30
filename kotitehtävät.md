@@ -59,6 +59,12 @@ Metasplotin tietokannan käynnistäminen ja tarkistus, että se on onnistunut:
 
 ## g) Metasploitablen etsiminen porttiskannaamalla
 Tein porttiskanneuksen koneiden yhteisessä verkossa. Tuloksena nähdään kahden koneen osoitteet.
+![kuvateksti](https://github.com/JohannaLap/H1---Hacker-s-journey/blob/main/sn%20verkko.png)
+
+Tarkistin selaimella, että löysin oikean osoitteen
+
+![](https://github.com/JohannaLap/H1---Hacker-s-journey/blob/main/webbi.png)
+
 
 ## h) Metasploitablen porttiskannaus
 Tätä kohtaa en saanut tehtyä.
