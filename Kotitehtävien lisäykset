@@ -1,0 +1,12 @@
+## h )  Metasploitablen porttien skannaus
+Tätä tehtävää en alunperin saanut tehtyä. En oikein löytänyt mitään syytä miksi ping testi ei onnistunut koneiden välillä. Tämä ongelma korjaantui kuitenkin kun käynnisti koneet uudelleen. 
+Koneiden uudelleen käynnistyksen jälkeen pingi toimi. 
+
+![kuvateksti](https://github.com/JohannaLap/H1---Hacker-s-journey/blob/main/ping%20192....png)
+
+Kun pingi toimi tein skannauksen. 
+Kuvasta pystytään analysoimaan, että useita portteja on auki. Ensimmäisenä silmään pistää 22 ja 80, jotka ovat jo tuttuja aiemmista tehtävistä.
+Jouduin turvautumaan chatgpt apuun tulkitsemaan muita avoimia portteja. Nostona tästä portit 139 ja 445 (Samba), joiden kautta tiedostojen jako ja etäkäyttö mahdollistuvat. 
+
+![kuvateksti](https://github.com/JohannaLap/H1---Hacker-s-journey/blob/main/nmap%20-A%20-p%20.png)
+![kuvateksti](https://github.com/JohannaLap/H1---Hacker-s-journey/blob/main/nmap%20-A%20-p%202.png)
